@@ -1,7 +1,0 @@
-<!--开始标签(Start Tag)-->
-<Button xmlns="http://schemas.microsoft.com/winfx/2006/xmal/presentation" Width = "300" Height = "200><!--属性-->
-<!--两者中间的内容-->
-<Button.Content>
-	Hello XAML
-</Button.Content>
-<!--结束标签(End Tag)-->
